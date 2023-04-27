@@ -8,11 +8,14 @@ function About(){
                         <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                     </div>
                     <p className="text-xl mt-20">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab est laudantium voluptas praesentium placeat maiores tempora id similique ipsa necessitatibus eligendi, exercitationem voluptatum soluta dolor veniam accusantium quasi beatae nesciunt illo! Necessitatibus laborum animi iure quia quo praesentium soluta minus dignissimos, quibusdam quaerat nemo doloremque ab at sequi excepturi! Temporibus?
+                        I am Ibrahim Ogundipe from Lagos, Nigeria. I have a Bachelor degree in Statistics from Ekiti State University, I Currently work as an Audit Associate from Truluck International Limited.
                     </p>
                     <br />
                     <p className="text-xl">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam possimus laborum sapiente cupiditate quasi adipisci cumque exercitationem, delectus vitae, ipsum pariatur aliquam quaerat quibusdam nobis saepe, repellat expedita suscipit consequatur dolores odit incidunt repellendus! Ab eligendi nam doloremque, dignissimos sit minima, commodi maxime corrupti voluptatem saepe perferendis laborum facere magni!
+                        I started coding in 2021. I have 2 years of experience building and designing applications.
+                            I love to work on web application using technology like React, Tailwind, Django and GraphQl.
+                            Currently, I learning Docker and Cloud Technologies (like Google cloud). 
+                            I am available for internship and project opportunities 
                     </p>
                 </div>
 

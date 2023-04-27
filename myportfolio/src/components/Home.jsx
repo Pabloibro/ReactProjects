@@ -1,4 +1,5 @@
-import Image from '../assets/image.jpg'
+import Image from '../assets/image1.jpg'
+import { Link } from "react-scroll";
 import { BsArrowRight } from 'react-icons/bs'
 
 function Home() {
@@ -10,14 +11,13 @@ function Home() {
                     <div className='flex flex-col justify-center h-full'>
                         <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Software Developer</h2>
                         <p className='text-gray-500 py-4 max-w-md'>
-                            I have 2 years of experience building and designing applications.
-                            Currently, I love to work on web application using technology like React, Tailwind, Django and GraphQl
+                           I love to code beautiful software and I love what I do
                         </p>
                         <div>
-                            <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to blue-500 cursor-pointer'>
-                                Project
+                            <Link to='contact' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to blue-500 cursor-pointer'>
+                                Contact Me
                                 <span className='group-hover:rotate-90 duration-300'><BsArrowRight size={20} className='ml-1'/></span>
-                            </button>
+                            </Link>
                         </div>
                     </div>
                     <div className='w-1/3'>
